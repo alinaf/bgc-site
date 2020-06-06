@@ -45,11 +45,7 @@ a:hover {
 }
 
 .avatar img {
-  width: 200px;
-}
-
-@media (max-width: 600px) {
-
+  width: 300px;
 }
 
 .about {
